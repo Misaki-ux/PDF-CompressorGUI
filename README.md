@@ -27,10 +27,10 @@ A simple graphical user interface (GUI) application built with Python and Tkinte
 1.  **Clone the repository or download the script:**
     ```bash
     # If using Git
-    git clone <repository_url>
+    git clone <[repository_url](https://github.com/Misaki-ux/PDF-CompressorGUI)>
     cd <repository_directory>
     ```
-    Or simply download the Python script (`your_script_name.py`).
+    Or simply download the Python script (`main.py`).
 
 2.  **Python Dependencies:**
     This script primarily uses Python's built-in libraries (`tkinter`, `os`, `shutil`, `subprocess`, `threading`, `glob`). No external Python packages are strictly required to be installed via pip for the core functionality.
@@ -42,9 +42,9 @@ A simple graphical user interface (GUI) application built with Python and Tkinte
 3.  Navigate to the directory where you saved the Python script.
 4.  Run the script:
     ```bash
-    python your_script_name.py
+    python main.py
     ```
-    (Replace `your_script_name.py` with the actual name of your Python file).
+    
 
 ## Usage
 
